@@ -4,3 +4,6 @@ class Dog {
     this.breed = breed;
   }
 }
+
+class Breakfast {
+  constructor(food, drink)
